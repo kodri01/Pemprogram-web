@@ -1,7 +1,7 @@
 # Pemprogram-web
 
-Nama            : Kodri
-NIM             : 1801012
-Kelas           : Sistem Informasi Va
-Matkul          : Pemprograman Berbasis Web
+Nama            : Kodri <br>
+NIM             : 1801012 <br> 
+Kelas           : Sistem Informasi Va <br>
+Matkul          : Pemprograman Berbasis Web <br>
 Dosen Pengampu  : Lailyn Puad S.Kom
